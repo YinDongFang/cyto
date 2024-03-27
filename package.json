@@ -1,0 +1,40 @@
+{
+  "name": "cyto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "koa": "^2.15.2",
+    "lodash": "^4.17.21",
+    "querystring": "^0.2.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "is-base": "^1.0.0",
+    "thisispro": "^1.0.0",
+    "isuse": "^1.0.0",
+    "thisislist": "^1.0.0"
+  }
+}
